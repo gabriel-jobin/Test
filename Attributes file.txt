@@ -1,0 +1,12 @@
+SampleName	Patient	Time
+BY_PC	1	PreCulture
+BY_D14	1	Day 14
+BY_D28	1	Day 28
+BY_D42	1	Day 42
+BY_D45_D14P1	1	Day 45 D14P1
+BY_D58_B_PT	1	Day 58 Recovery
+TM_PC	2	PreCulture
+TM_D14	2	Day 14
+TM_D21	2	Day 21
+TM_D28	2	Day 28
+TM_D42_D14P1	2	Day 42 D14P1
